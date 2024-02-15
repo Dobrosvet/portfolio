@@ -26,8 +26,11 @@ https://easyoffer.ru/
 ### Топ интересных работ
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
+2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
 
 ### Все работы в хронологическом порядке
+
+❌ — работа ещё не выложена в репозиторий
 
 <table>
 <thead>
@@ -48,7 +51,7 @@ https://easyoffer.ru/
   </tr> -->
   <tr id="comparing_music_between_cities">
     <td>2</td>
-    <td><a href="comparing_music_between_cities/README.ru.md">Яндекс Музыка в Москве и Санкт-Петербурге</a></td>
+    <td><a href="comparing_music_between_cities/README.ru.md">❌Яндекс Музыка в Москве и Санкт-Петербурге</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -56,35 +59,35 @@ https://easyoffer.ru/
     -->
   </tr>
   <tr id="borrower_reliability">
-    <td>⭐3</td>
-    <td><a href="borrower_reliability/README.ru.md">Надёжность заёмщиков</a></td>
+    <td>3</td>
+    <td><a href="borrower_reliability/README.ru.md">❌Надёжность заёмщиков</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `borrower_reliability.ipynb`<br>- `data.csv` ← переименовать в `borrower_reliability.csv`
     -->
   </tr>
   <tr id="apartment_sales_ads">
-    <td>⭐4</td>
-    <td><a href="apartment_sales_ads/README.ru.md">Объявления о продаже квартир</a></td>
+    <td>4</td>
+    <td><a href="apartment_sales_ads/README.ru.md">❌Объявления о продаже квартир</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `apartment_sales_ads.ipynb`<br>- `real_estate_data.csv` переименовать в `apartment_sales_ads.csv`
     -->
   </tr>
   <tr id="russian_film_distribution">
-    <td>⭐5</td>
-    <td><a href="russian_film_distribution/README.ru.md">Российский кинопрокат</a></td>
+    <td>5</td>
+    <td><a href="russian_film_distribution/README.ru.md">❌Российский кинопрокат</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `russian_film_distribution.ipynb`<br>- `mkrf_movies.csv`<br>- `mkrf_shows.csv`
     -->
   </tr>
   <tr id="best_tariff">
     <td>6</td>
-    <td><a href="best_tariff/README.ru.md">Лучший тариф</a></td>
+    <td><a href="best_tariff/README.ru.md">❌Лучший тариф</a></td>
     <td>Описание</td>
     <td>Стек</td>
   </tr>
@@ -93,7 +96,7 @@ https://easyoffer.ru/
     -->
   <tr id="tariff_recommendation">
     <td>7</td>
-    <td><a href="tariff_recommendation/README.ru.md">Рекомендация тарифов</a></td>
+    <td><a href="tariff_recommendation/README.ru.md">❌Рекомендация тарифов</a></td>
     <td>Описание</td>
     <td>Стек</td>
   </tr>
@@ -102,7 +105,7 @@ https://easyoffer.ru/
     -->
   <tr id="bank_customers_outflow">
     <td>8</td>
-    <td><a href="bank_customers_outflow/README.ru.md">Отток клиентов банка</a></td>
+    <td><a href="bank_customers_outflow/README.ru.md">❌Отток клиентов банка</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -111,11 +114,11 @@ https://easyoffer.ru/
     -->
   </tr>
   <tr id="wells_location">
-    <td>⭐9</td>
-    <td><a href="wells_location/README.ru.md">Локация скважины</a></td>
+    <td>9</td>
+    <td><a href="wells_location/README.ru.md">❌Локация скважины</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `wells_location.ipynb`
     - `geo_data_0.csv`
     - `geo_data_1.csv`
@@ -123,12 +126,12 @@ https://easyoffer.ru/
     -->
   </tr>
   <tr id="hotel_customers_outflow_prediction">
-    <td>10⭐💯1️⃣</td>
+    <td>10</td>
     <td><a href="hotel_customers_outflow_prediction/README.ru.md">Предсказание оттока клиентов отеля</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
-    Спринт 14
+    Спринт 14⭐💯1️⃣
     - `hotel_customers_outflow_prediction.ipynb`
     - `hotel_train.csv`
     - `hotel_test.csv`
@@ -136,7 +139,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="sql_basic">
     <td>11</td>
-    <td><a href="sql_basic/README.ru.md">Базовый SQL</a></td>
+    <td><a href="sql_basic/README.ru.md">❌Базовый SQL</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -156,17 +159,17 @@ https://easyoffer.ru/
     <td>- `godaddy_microbusiness_density_forecasting.ipynb`<br>- `train.csv` ← Переименовать<br>- `test.csv` ← Переименовать<br>- `sample_submission.csv` ← Переименовать<br>- `census_starter.csv` ← Переименовать</td>
   </tr> -->
   <tr id="spark_prediction_house_cost">
-    <td>⭐14</td>
-    <td><a href="spark_prediction_house_cost/README.ru.md">Предсказание стоимости жилья с помощью SparkML</a></td>
+    <td>14</td>
+    <td><a href="spark_prediction_house_cost/README.ru.md">❌Предсказание стоимости жилья с помощью SparkML</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `spark_prediction_house_cost.ipynb`<br>- Датасет удалённый
     -->
   </tr>
   <tr id="clients_personal_data_protection">
     <td>15</td>
-    <td><a href="clients_personal_data_protection/README.ru.md">Защита персональных данных клиентов</a></td>
+    <td><a href="clients_personal_data_protection/README.ru.md">❌Защита персональных данных клиентов</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -175,7 +178,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="cars_cost_prediction">
     <td>16</td>
-    <td><a href="cars_cost_prediction/README.ru.md">Определение стоимости автомобилей</a></td>
+    <td><a href="cars_cost_prediction/README.ru.md">❌Определение стоимости автомобилей</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -189,7 +192,7 @@ https://easyoffer.ru/
   </tr> -->
   <tr id="sql_advanced">
     <td>18</td>
-    <td><a href="sql_advanced/README.ru.md">Продвинутый SQL</a></td>
+    <td><a href="sql_advanced/README.ru.md">❌Продвинутый SQL</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -202,36 +205,36 @@ https://easyoffer.ru/
     <td></td>
   </tr> -->
   <tr id="star_temperature_predict">
-    <td>⭐💯2️⃣20</td>
+    <td>20</td>
     <td><a href="star_temperature_predict/README.ru.md">Предсказание температуры звёзд</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐💯2️⃣
     - `star_temperature_predict.ipynb`<br>- `6_class.csv` ← переименовать в `star_temperature.csv`
     -->
   </tr>
   <tr id="car_accident_risks">
-    <td>⭐21</td>
-    <td><a href="car_accident_risks/README.ru.md">Оценка рисков ДТП</a></td>
+    <td>21</td>
+    <td><a href="car_accident_risks/README.ru.md">❌Оценка рисков ДТП</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `car_accident_risks.ipynb`<br>- вынести внешнее подключение в переменных окружения `.env`
     -->
   </tr>
   <tr id="taxi_orders_prediction">
-    <td>⭐22</td>
-    <td><a href="taxi_orders_prediction/README.ru.md">Предсказание заказов такси</a></td>
+    <td>22</td>
+    <td><a href="taxi_orders_prediction/README.ru.md">❌Предсказание заказов такси</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐
     - `taxi_orders_prediction.ipynb`
     - `taxi.csv`
     -->
   </tr>
   <tr id="toxic_comments_detection">
     <td>23</td>
-    <td><a href="toxic_comments_detection/README.ru.md">Определение токсичных комментариев</a></td>
+    <td><a href="toxic_comments_detection/README.ru.md">❌Определение токсичных комментариев</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -241,7 +244,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="age_prediction_cv">
     <td>24</td>
-    <td><a href="age_prediction_cv/README.ru.md">Определение возраста покупателей</a></td>
+    <td><a href="age_prediction_cv/README.ru.md">❌Определение возраста покупателей</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
@@ -252,17 +255,17 @@ https://easyoffer.ru/
     -->
   </tr>
   <tr id="joint_image_text_based_retrieval">
-    <td>⭐💯3️⃣25</td>
-    <td><a href="joint_image_text_based_retrieval/README.ru.md">Поиск изображений соответствующих описанию</a></td>
+    <td>25</td>
+    <td><a href="joint_image_text_based_retrieval/README.ru.md">❌Поиск изображений соответствующих описанию</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--⭐💯3️⃣
     - `joint_image_text_based_retrieval.ipynb`<br>- Папка `data`
     -->
   </tr>
   <tr id="steel_temperature_prediction">
     <td>26</td>
-    <td><a href="steel_temperature_prediction/README.ru.md">Предсказание температуры стали в промышленности</a></td>
+    <td><a href="steel_temperature_prediction/README.ru.md">❌Предсказание температуры стали в промышленности</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
