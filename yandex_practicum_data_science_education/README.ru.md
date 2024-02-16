@@ -51,7 +51,7 @@ https://easyoffer.ru/
   </tr> -->
   <tr id="comparing_music_between_cities">
     <td>2</td>
-    <td><a href="comparing_music_between_cities/README.ru.md">❌Яндекс Музыка в Москве и Санкт-Петербурге</a></td>
+    <td><a href="comparing_music_between_cities/README.ru.md">Яндекс Музыка в Москве и Санкт-Петербурге</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
