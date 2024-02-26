@@ -27,6 +27,7 @@ https://easyoffer.ru/
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
 2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+10. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
 
 ### Все работы в хронологическом порядке
 
@@ -60,7 +61,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="borrower_reliability">
     <td>3</td>
-    <td><a href="borrower_reliability/README.ru.md">❌Надёжность заёмщиков</a></td>
+    <td><a href="borrower_reliability/README.ru.md">Надёжность заёмщиков</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐
