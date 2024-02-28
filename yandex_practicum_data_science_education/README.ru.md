@@ -27,6 +27,7 @@ https://easyoffer.ru/
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
 2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+9. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
 10. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
 
 ### Все работы в хронологическом порядке
@@ -70,7 +71,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="apartment_sales_ads">
     <td>4</td>
-    <td><a href="apartment_sales_ads/README.ru.md">❌Объявления о продаже квартир</a></td>
+    <td><a href="apartment_sales_ads/README.ru.md">Объявления о продаже квартир</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐

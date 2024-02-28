@@ -1,6 +1,6 @@
 **RU** | [EN](README.md)
 
-# Заголовок
+# Исследование надежности заемщиков
 
 - [Посмотреть Jupyter-блокнот](borrower_reliability_ru.ipynb)
 
