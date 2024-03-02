@@ -27,6 +27,7 @@ https://easyoffer.ru/
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
 2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+4. [Базовый SQL](sql_basic/README.ru.md)
 8. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
 9. [Российский кинопрокат](russian_film_distribution/README.ru.md)
 10. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
@@ -142,7 +143,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="sql_basic">
     <td>11</td>
-    <td><a href="sql_basic/README.ru.md">❌Базовый SQL</a></td>
+    <td><a href="sql_basic/README.ru.md">Базовый SQL</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
