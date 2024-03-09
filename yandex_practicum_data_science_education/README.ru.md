@@ -92,7 +92,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="best_tariff">
     <td>6</td>
-    <td><a href="best_tariff/README.ru.md">❌Лучший тариф</a></td>
+    <td><a href="best_tariff/README.ru.md">Лучший тариф</a></td>
     <td>Описание</td>
     <td>Стек</td>
   </tr>
