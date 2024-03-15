@@ -101,7 +101,7 @@ https://easyoffer.ru/
     -->
   <tr id="tariff_recommendation">
     <td>7</td>
-    <td><a href="tariff_recommendation/README.ru.md">❌Рекомендация тарифов</a></td>
+    <td><a href="tariff_recommendation/README.ru.md">Рекомендация тарифов</a></td>
     <td>Описание</td>
     <td>Стек</td>
   </tr>
