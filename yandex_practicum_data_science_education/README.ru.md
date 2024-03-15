@@ -110,10 +110,10 @@ https://easyoffer.ru/
     -->
   <tr id="bank_customers_outflow">
     <td>8</td>
-    <td><a href="bank_customers_outflow/README.ru.md">❌Отток клиентов банка</a></td>
+    <td><a href="bank_customers_outflow/README.ru.md">Отток клиентов банка</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--❓ может добавить к избранным
     - `bank_customers_outflow.ipynb`
     - `churn.csv`
     -->
