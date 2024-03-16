@@ -26,13 +26,14 @@ https://easyoffer.ru/
 ### Топ интересных работ
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
-4. [Локация скважины](wells_location/README.ru.md)
-5. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
-6. [Базовый SQL](sql_basic/README.ru.md)
-7. [Продвинутый SQL](sql_advanced/README.ru.md)
-8. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
-9. [Российский кинопрокат](russian_film_distribution/README.ru.md)
-10. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
+4. [Предсказание стоимости жилья с помощью SparkML](spark_prediction_house_cost/README.ru.md)
+5. [Локация скважины](wells_location/README.ru.md)
+6. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+7. [Базовый SQL](sql_basic/README.ru.md)
+8. [Продвинутый SQL](sql_advanced/README.ru.md)
+9. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
+10. [Российский кинопрокат](russian_film_distribution/README.ru.md)
+11. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
 
 ### Все работы в хронологическом порядке
 
@@ -166,7 +167,7 @@ https://easyoffer.ru/
   </tr> -->
   <tr id="spark_prediction_house_cost">
     <td>14</td>
-    <td><a href="spark_prediction_house_cost/README.ru.md">❌Предсказание стоимости жилья с помощью SparkML</a></td>
+    <td><a href="spark_prediction_house_cost/README.ru.md">Предсказание стоимости жилья с помощью SparkML</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐
