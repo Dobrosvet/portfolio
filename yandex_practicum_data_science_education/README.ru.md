@@ -176,10 +176,10 @@ https://easyoffer.ru/
   </tr>
   <tr id="clients_personal_data_protection">
     <td>15</td>
-    <td><a href="clients_personal_data_protection/README.ru.md">❌Защита персональных данных клиентов</a></td>
+    <td><a href="clients_personal_data_protection/README.ru.md">Защита персональных данных клиентов</a></td>
     <td>Описание</td>
     <td>Стек</td>
-    <!--
+    <!--❓ может добавить к избранным
     - `clients_personal_data_protection.ipynb`<br>- `insurance.csv`
     -->
   </tr>
