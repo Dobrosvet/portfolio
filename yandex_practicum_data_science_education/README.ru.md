@@ -185,7 +185,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="cars_cost_prediction">
     <td>16</td>
-    <td><a href="cars_cost_prediction/README.ru.md">❌Определение стоимости автомобилей</a></td>
+    <td><a href="cars_cost_prediction/README.ru.md">Определение стоимости автомобилей</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
