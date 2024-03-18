@@ -251,7 +251,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="age_prediction_cv">
     <td>24</td>
-    <td><a href="age_prediction_cv/README.ru.md">❌Определение возраста покупателей</a></td>
+    <td><a href="age_prediction_cv/README.ru.md">Определение возраста покупателей</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
