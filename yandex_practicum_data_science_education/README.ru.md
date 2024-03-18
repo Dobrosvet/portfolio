@@ -272,7 +272,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="steel_temperature_prediction">
     <td>26</td>
-    <td><a href="steel_temperature_prediction/README.ru.md">❌Предсказание температуры стали в промышленности</a></td>
+    <td><a href="steel_temperature_prediction/README.ru.md">Предсказание температуры стали в промышленности</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
