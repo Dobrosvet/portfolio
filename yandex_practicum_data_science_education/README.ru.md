@@ -28,10 +28,10 @@ https://easyoffer.ru/
 ### Топ интересных работ
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
+2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
 4. [Оценка рисков ДТП](car_accident_risks/README.ru.md)
 5. [Предсказание стоимости жилья с помощью SparkML](spark_prediction_house_cost/README.ru.md)
 6. [Локация скважины](wells_location/README.ru.md)
-7. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
 8. [Базовый SQL](sql_basic/README.ru.md)
 9. [Продвинутый SQL](sql_advanced/README.ru.md)
 10. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
@@ -234,7 +234,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="taxi_orders_prediction">
     <td>22</td>
-    <td><a href="taxi_orders_prediction/README.ru.md">❌Предсказание заказов такси</a></td>
+    <td><a href="taxi_orders_prediction/README.ru.md">Предсказание заказов такси</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐
