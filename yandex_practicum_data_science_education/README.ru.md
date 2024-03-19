@@ -27,20 +27,21 @@ https://easyoffer.ru/
 
 ### Топ интересных работ
 
-1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
-2. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+1. [Поиск изображений соответствующих описанию](joint_image_text_based_retrieval/README.ru.md)
+2. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
+3. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
 4. [Оценка рисков ДТП](car_accident_risks/README.ru.md)
 5. [Предсказание стоимости жилья с помощью SparkML](spark_prediction_house_cost/README.ru.md)
 6. [Локация скважины](wells_location/README.ru.md)
 8. [Базовый SQL](sql_basic/README.ru.md)
 9. [Продвинутый SQL](sql_advanced/README.ru.md)
 10. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
+<!--
 11. [Российский кинопрокат](russian_film_distribution/README.ru.md)
 12. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
+-->
 
 ### Все работы в хронологическом порядке
-
-❌ — работа ещё не выложена в репозиторий
 
 <table>
 <thead>
@@ -266,7 +267,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="joint_image_text_based_retrieval">
     <td>25</td>
-    <td><a href="joint_image_text_based_retrieval/README.ru.md">❌Поиск изображений соответствующих описанию</a></td>
+    <td><a href="joint_image_text_based_retrieval/README.ru.md">Поиск изображений соответствующих описанию</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐💯3️⃣
