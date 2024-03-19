@@ -26,14 +26,15 @@ https://easyoffer.ru/
 ### Топ интересных работ
 
 1. [Предсказание оттока клиентов отеля](hotel_customers_outflow_prediction/README.ru.md)
-4. [Предсказание стоимости жилья с помощью SparkML](spark_prediction_house_cost/README.ru.md)
-5. [Локация скважины](wells_location/README.ru.md)
-6. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
-7. [Базовый SQL](sql_basic/README.ru.md)
-8. [Продвинутый SQL](sql_advanced/README.ru.md)
-9. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
-10. [Российский кинопрокат](russian_film_distribution/README.ru.md)
-11. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
+4. [Оценка рисков ДТП](car_accident_risks/README.ru.md)
+5. [Предсказание стоимости жилья с помощью SparkML](spark_prediction_house_cost/README.ru.md)
+6. [Локация скважины](wells_location/README.ru.md)
+7. [Предсказание температуры звёзд](star_temperature_predict/README.ru.md)
+8. [Базовый SQL](sql_basic/README.ru.md)
+9. [Продвинутый SQL](sql_advanced/README.ru.md)
+10. [Объявления о продаже квартир](apartment_sales_ads/README.ru.md)
+11. [Российский кинопрокат](russian_film_distribution/README.ru.md)
+12. [Надёжность заёмщиков](borrower_reliability/README.ru.md)
 
 ### Все работы в хронологическом порядке
 
@@ -222,7 +223,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="car_accident_risks">
     <td>21</td>
-    <td><a href="car_accident_risks/README.ru.md">❌Оценка рисков ДТП</a></td>
+    <td><a href="car_accident_risks/README.ru.md">Оценка рисков ДТП</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--⭐
