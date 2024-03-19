@@ -244,7 +244,7 @@ https://easyoffer.ru/
   </tr>
   <tr id="toxic_comments_detection">
     <td>23</td>
-    <td><a href="toxic_comments_detection/README.ru.md">❌Определение токсичных комментариев</a></td>
+    <td><a href="toxic_comments_detection/README.ru.md">Определение токсичных комментариев с BERT</a></td>
     <td>Описание</td>
     <td>Стек</td>
     <!--
