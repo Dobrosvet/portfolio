@@ -20,6 +20,8 @@ https://easyoffer.ru/
 
 ## Навигация по портфолио
 
+Использовались: Python, Anaconda, VSCode
+
 Базовое окружение которое использовалось для всех работ:
 - [ds_practicum_env.yml](ds_practicum_env.yml)
 
