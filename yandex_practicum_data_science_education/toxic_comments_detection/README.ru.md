@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](toxic_comments_detection_ru.ipynb)
 
-Стэк: `transformers`, `torch`, `sklearn`, `pandas`, `tqdm`
+Стэк: `transformers`, `torch`, `sklearn`, `pandas`, `tqdm`, BERT, NLP
 
 ## Описание
 

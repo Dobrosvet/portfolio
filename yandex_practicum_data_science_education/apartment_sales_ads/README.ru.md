@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](apartment_sales_ads_ru.ipynb)
 
-Стэк: `pandas`, `seaborn`, `geopy`
+Стэк: `pandas`, `seaborn`, `geopy`, EDA
 
 ## Описание
 

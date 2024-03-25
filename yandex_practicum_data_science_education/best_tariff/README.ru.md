@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](best_tariff_ru.ipynb)
 
-Стэк: `numpy`, `pandas`, `seaborn`, проверка гипотез
+Стэк: `numpy`, `pandas`, `seaborn`, EDA, проверка гипотез
 
 ## Описание
 

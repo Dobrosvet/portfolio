@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](russian_film_distribution_ru.ipynb)
 
-Стэк: `numpy`, `pandas`
+Стэк: `numpy`, `pandas`, EDA
 
 ## Описание
 

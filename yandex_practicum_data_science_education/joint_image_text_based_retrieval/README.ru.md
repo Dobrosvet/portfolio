@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](joint_image_text_based_retrieval_ru.ipynb)
 
-Стэк: `keras_nlp`, `keras`, `ResNet50`, `tensorflow`, `nltk`, `sklearn`, `pandas`, `matplotlib`, `pillow`
+Стэк: `keras_nlp`, `keras`, `ResNet50`, `tensorflow`, `nltk`, `sklearn`, `pandas`, `matplotlib`, `pillow`, BERT, NLP, CV, эмбеддинги
 
 ## Описание
 

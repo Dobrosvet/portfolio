@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](star_temperature_predict_ru.ipynb)
 
-Стэк: `numpy`, `pandas`, `matplotlib`, `seaborn`, `torch`, `Sequential`, `Adamax`, `Linear`, `ReLU`, `Dropout`, `BatchNorm1d`, `math`, `itertools`, `OneHotEncoder`, `StandardScaler`
+Стэк: `numpy`, `pandas`, `matplotlib`, `seaborn`, `torch`, `Sequential`, `Adamax`, `Linear`, `ReLU`, `Dropout`, `BatchNorm1d`, `math`, `itertools`, `OneHotEncoder`, `StandardScaler`, ml алгоритмы
 
 ## Описание
 

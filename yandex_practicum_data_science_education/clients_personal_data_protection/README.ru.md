@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](clients_personal_data_protection_ru.ipynb)
 
-Стэк: `sklearn`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `warnings`
+Стэк: `sklearn`, `pandas`, `numpy`, `seaborn`, `matplotlib`, `warnings`, линейная алгебра, регрессия
 
 ## Описание
 

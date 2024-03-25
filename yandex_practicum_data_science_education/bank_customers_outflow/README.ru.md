@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](bank_customers_outflow_ru.ipynb)
 
-Стэк: `sklearn`, `matplotlib`, `seaborn`, `pandas`
+Стэк: `sklearn`, `matplotlib`, `seaborn`, `pandas`, классификация
 
 ## Описание
 

@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](wells_location_ru.ipynb)
 
-Стэк: `sklearn`, `matplotlib`, `seaborn`, `pandas`, `numpy`, `locale`
+Стэк: `sklearn`, `matplotlib`, `seaborn`, `pandas`, `numpy`, `locale`, регрессия, бутстреп
 
 ## Описание
 

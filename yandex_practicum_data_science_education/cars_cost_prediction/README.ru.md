@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](cars_cost_prediction_ru.ipynb)
 
-Стэк: `catboost`, `xgboost`, `lightgbm`, `sklearn`, `joblib`, `pandas`, `numpy`, `seaborn`, `matplotlib`
+Стэк: `catboost`, `xgboost`, `lightgbm`, `sklearn`, `joblib`, `pandas`, `numpy`, `seaborn`, `matplotlib`, регрессия, градиентный бустинг
 
 ## Описание
 

@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](spark_prediction_house_cost_ru.ipynb)
 
-Стэк: `pyspark`, `pandas`, `seaborn`
+Стэк: `pyspark`, `pandas`, `seaborn`, spark, big data, регрессия
 
 ## Описание
 

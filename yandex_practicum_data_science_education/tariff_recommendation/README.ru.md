@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](tariff_recommendation_ru.ipynb)
 
-Стэк: `sklearn`, `seaborn`, `pandas`, `itertools`, `random`, `collections`
+Стэк: `sklearn`, `seaborn`, `pandas`, `itertools`, `random`, `collections`, классификация
 
 ## Описание
 

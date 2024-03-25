@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](borrower_reliability_ru.ipynb)
 
-Стэк: `pandas`, `seaborn`, `math`
+Стэк: `pandas`, `seaborn`, `math`, предобработка данных
 
 ## Описание
 

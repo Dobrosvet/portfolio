@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](age_prediction_cv_ru.ipynb)
 
-Стэк: `keras`, `pandas`, `matplotlib`
+Стэк: `keras`, `pandas`, `matplotlib`, ResNet, imagenet, CV
 
 ## Описание
 

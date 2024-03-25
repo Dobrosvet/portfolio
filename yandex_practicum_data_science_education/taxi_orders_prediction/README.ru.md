@@ -4,7 +4,7 @@
 
 - [Посмотреть Jupyter-блокнот](taxi_orders_prediction_ru.ipynb)
 
-Стэк: `xgboost`, `sklearn`, `statsmodels`, `pandas`, `matplotlib`
+Стэк: `xgboost`, `sklearn`, `statsmodels`, `pandas`, `matplotlib`, временные ряды, регрессия
 
 ## Описание
 
